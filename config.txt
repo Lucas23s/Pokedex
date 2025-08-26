@@ -1,0 +1,7 @@
+-- Configuração do GIT
+git config --global user.name Lucas23s
+git config --global user.email lucaseduardog48@gmail.com
+
+-- -o = output
+dotnet new mvc -o Pokedex
+cd Pokedex
